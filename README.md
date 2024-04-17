@@ -1,6 +1,5 @@
-#demo-repo
+# Demo-repo
 
-
-Description 
+Description!
 
 Demo for Github Introduction video
